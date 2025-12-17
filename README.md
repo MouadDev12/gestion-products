@@ -29,10 +29,10 @@ Application web simple permettant de **gérer une liste de produits** (CRUD : Cr
 ```bash
 Gestionnaire-Produits/
 │
-├── index.html      # Interface principale
-├── style.css       # Styles CSS (optionnel si séparé)
-├── script.js       # Logique JavaScript
-└── README.md       # Documentation du projet
+├── index.html      
+├── style.css       
+├── script.js       
+└── README.md       
 ```
 
 ---
